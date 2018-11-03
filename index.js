@@ -6,4 +6,4 @@ function User(firstName, lastName) {
 }
 
 let user = new User('Muthu', 'Ayya');
-console.log("User Full Name::"+`${user.firstName} ${user.lastName});
+console.log("User Full Name::"+`${user.firstName} ${user.lastName}`);
