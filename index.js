@@ -5,5 +5,5 @@ function User(firstName, lastName) {
 	this.lastName = lastName;
 }
 
-let user = new User('Muthu', 'Ayya');
-console.log("User Full Name::"+`${user.firstName} ${user.lastName});
+let user = new User('Muthu', 'Ayyavu');
+console.log("User Full Name::"+`${user.firstName} ${user.lastName}`);
